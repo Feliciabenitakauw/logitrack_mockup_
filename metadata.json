@@ -1,0 +1,6 @@
+{
+  "name": "LogiTrack - Ekspedisi Darat Mobile",
+  "description": "Mockup aplikasi mobile ekspedisi darat Indonesia LogiTrack lengkap dengan pelacakan kurir interaktif, cek ongkir volumetrik, dan manajemen pengiriman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
